@@ -29,7 +29,8 @@ export const Header = (props) => {
                         </div>
                     </div>
                 </Link>
-
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6873284227643528"
+     crossorigin="anonymous"></script>
                 <div className='flex justify-center'>
                 <SocialButton />
                 </div>
