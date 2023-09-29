@@ -29,8 +29,7 @@ export const Header = (props) => {
                         </div>
                     </div>
                 </Link>
-
-     crossorigin="anonymous"></script>
+  
                 <div className='flex justify-center'>
                 <SocialButton />
                 </div>
